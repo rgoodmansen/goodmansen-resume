@@ -4,12 +4,12 @@ title: Ryan Goodmansen Resume
 ---
 # Ryan Goodmansen
 
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+As a senior Business Analytics student with experience in data analysis, I enjoy critical thinking through challenging business problems. I consider myself a resilient learner, capable of both breadth and depth of responsibility. With a background in data wrangling, visualization, reporting, automation, and analysis, I apply my skills to reveal valuable insights and solve complex problems. I value professional integrity and clear communication. I’m excited to help companies make and save more money by harnessing the value of their data.
 
 <div id="webaddress">
 <a href="ryangoodmansen@gmail.com">ryangoodmansen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/ryan-goodmansen/">LinkedIn</a>
-| <a href="https://rgoodmansen.github.io/goodmansen-resume/">GitHub</a>
+| <a href="https://github.com/rgoodmansen">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
