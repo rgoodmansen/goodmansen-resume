@@ -3,25 +3,26 @@ layout: cv
 title: Ryan Goodmansen Resume
 ---
 # Ryan Goodmansen
+
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="ryangoodmansen@gmail.com">ryangoodmansen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/ryan-goodmansen/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://rgoodmansen.github.io/goodmansen-resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`09/2022 - 04/2024`
+__Brigham Young University-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`09/2021 - 04/2022`
+__Utah State University__, Logan, UT
 
 - 4.0 Major GPA
 
