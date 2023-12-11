@@ -1,10 +1,7 @@
 ---
 layout: cv
-title: Ryan Goodmansen Resume
+title: Ryan Goodmansen
 ---
-# Ryan Goodmansen
-
-As a senior Business Analytics student with experience in data analysis, I enjoy critical thinking through challenging business problems. I consider myself a resilient learner, capable of both breadth and depth of responsibility. With a background in data wrangling, visualization, reporting, automation, and analysis, I apply my skills to reveal valuable insights and solve complex problems. I value professional integrity and clear communication. I’m excited to help companies make and save more money by harnessing the value of their data.
 
 <div id="webaddress">
 <a href="ryangoodmansen@gmail.com">ryangoodmansen@gmail.com</a>
@@ -12,74 +9,75 @@ As a senior Business Analytics student with experience in data analysis, I enjoy
 | <a href="https://github.com/rgoodmansen">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## Skills
+### Technical Skills
+- Generate dynamic visuals and dashboards in __Power BI__, writing complex custom measures with __DAX__
+- Perform advanced spreadsheet analysis in __Excel__ using functions, PivotTables, etc.
+- Write powerful queries and design relational databases with __SQL__
+- Program extensive __Excel macros__ with Microsoft __VBA__
+- Wrangle and visualize large datasets in __RStudio__ with __ggplot__
+- Perform data analysis in __Python__, including some machine learning and web scraping
+- Understanding of statistics, supply chain management, operations, accounting, and finance principles
+- Familiarity with __Microsoft Office Suite__, __Microsoft Teams__, and __GitHub__
+
+### Soft Skills
+- Effective communication
+- Leadership
+- Teaching proficiency
+- Comprehensive learning ability
+- Teamwork
+- Customer service
+- Spanish (fluent)
+- French (classroom)
+
 
 ## Education
 
-`09/2022 - 04/2024`
-__Brigham Young University-Idaho__, Rexburg, ID
+__Brigham Young University-Idaho__, Rexburg, ID `09/2022 - Present`
 
-- Full academic scholarship with 4.0 GPA
+_BS Degree in Business Analytics, anticipated graduation 04/2024_ 
 
-`09/2021 - 04/2022`
-__Utah State University__, Logan, UT
+- 4.0 GPA
+- Full tuition academic scholarship
 
-- 4.0 Major GPA
+__Utah State University__, Logan, UT `09/2021 - 04/2022`
 
+_Majored in Data Analytics, transferred to BYU-Idaho_
+
+- 4.0 GPA
+- Full tuition academic scholarship
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Blue Ridge Risk Partners__, Remote `04/2023 - 08/2023`
+_IT Intern_
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Built out 191 visuals across 48 pages on 4 Power BI reports for use by company executives and directors.
+- Wrote dozens of custom measures, custom columns, and custom tables with DAX to showcase dynamic data findings across reports in Power BI.
+- Created company SharePoint site with intern team, coordinating several sections of project as team lead.
+- Automated important spreadsheet processes with Excel VBA macros, saving the company 22-31 FTE hours a week.
 
-### Data Science Lead
+__Blue Ridge Risk Partners__, Hagerstown, MD `05/2022 - 01/2023`
+_IT Intern and Data Analyst_
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Performed spreadsheet analysis, data manipulation, and report automation using Microsoft Excel and VBA 
+macros.
+- Created detailed reports for use by company executives.
+- Cleaned hundreds of records in company database.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Service History
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+__The Church of Jesus Christ of Latter-day Saints__, Peru and New Jersey `2019-2021`
+_Teaching Missionary_
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+- Contacted and interacted with interested individuals and taught an average of 3-4 religious lessons a day (in 
+Spanish).
+- Instructed free English classes to small and large groups as service to community for 13 months.
+- Led meetings and set goals with 10-12 fellow missionaries, providing weekly training and counsel.
+- Spent time daily and weekly planning meetings, lessons, and occasional service projects.
+- Trained 2 new missionaries for 5 months, teaching them Spanish and effective missionary skills.
 
 
 <!-- ### Footer
