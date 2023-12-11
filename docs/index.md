@@ -10,7 +10,6 @@ title: Ryan Goodmansen
 </div>
 
 ## Skills
-### Technical Skills
 - Generate dynamic visuals and dashboards in __Power BI__, writing complex custom measures with __DAX__
 - Perform advanced spreadsheet analysis in __Excel__ using functions, PivotTables, etc.
 - Write powerful queries and design relational databases with __SQL__
@@ -19,17 +18,7 @@ title: Ryan Goodmansen
 - Perform data analysis in __Python__, including some machine learning and web scraping
 - Understanding of statistics, supply chain management, operations, accounting, and finance principles
 - Familiarity with __Microsoft Office Suite__, __Microsoft Teams__, and __GitHub__
-
-### Soft Skills
-- Effective communication
-- Leadership
-- Teaching proficiency
-- Comprehensive learning ability
-- Teamwork
-- Customer service
-- Spanish (fluent)
-- French (classroom)
-
+- Fluency in __Spanish__
 
 ## Education
 
